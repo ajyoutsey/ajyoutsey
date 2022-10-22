@@ -7,7 +7,7 @@ I'm a senior studying Computer Science and Economics at the University of Illino
 This fall I'm an SDE intern at Amazon Pharmacy working on a project to deduplicate errors and reduce my team's on-call burden. 
 I've previously interned at b.well Connected Health as a Data Engineering Intern.
 
-Outside of programming, I'm an avid reader 📚, a slowly improving golfer 🏌️‍♂️, and a supporter of Tottenham Hotspur ⚽️.
+Outside of programming, I enjoy reading 📚, playing golf 🏌️‍♂️, and watching Tottenham Hotspur ⚽️.
 
 #### ✉️ How to reach me
 
